@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Packet captures
+*.pcap
+*.pcapng
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Secrets and keys
+.env
+*.key
+*.pem
+id_rsa
+id_ed25519
+
+# Editor files
+.vscode/
+.idea/

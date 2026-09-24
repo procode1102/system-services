@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+from pathlib import Path
+
+# 
+BASE_DIR = Path(__file__).resolve().parent[2]
+
+#
+

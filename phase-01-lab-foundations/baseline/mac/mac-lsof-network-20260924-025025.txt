@@ -1,0 +1,31 @@
+COMMAND     PID      USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+rapportd    616 unixclone   11u  IPv4 0x89b1c767544ba13f      0t0  TCP *:64957 (LISTEN)
+rapportd    616 unixclone   12u  IPv6 0x245c0c8c7dda4564      0t0  TCP *:64957 (LISTEN)
+rapportd    616 unixclone   23u  IPv4 0x6806f0d3894ddde7      0t0  TCP 192.168.0.159:64957->192.168.0.157:55400 (ESTABLISHED)
+rapportd    616 unixclone   24u  IPv4 0x8e28fee61da78e54      0t0  UDP *:3722
+sharingd    632 unixclone    4u  IPv4 0xa057037a4da077b1      0t0  UDP *:*
+sharingd    632 unixclone   11u  IPv6 0x7ded5edbaa284a65      0t0  UDP *:56794
+identitys   641 unixclone    7u  IPv4 0x4e898be880c9fd1e      0t0  UDP *:*
+identitys   641 unixclone   15u  IPv4 0x31d61af16018beb1      0t0  UDP *:*
+identitys   641 unixclone   20u  IPv4 0x7497572d4cc270eb      0t0  UDP *:*
+identitys   641 unixclone   31u  IPv4 0xfe31f765acda868b      0t0  UDP *:*
+identitys   641 unixclone   38u  IPv4 0x6cad68d1b0d1d59e      0t0  UDP *:*
+identitys   641 unixclone   39u  IPv6 0x797ca8b6d3498a38      0t0  TCP [fe80:13::b614:4218:8af:5680]:1024->[fe80:13::f140:b749:596e:2dbe]:1024 (ESTABLISHED)
+identitys   641 unixclone   47u  IPv6 0x7bab0b5b5859eff2      0t0  TCP [fe80:19::581e:7303:15d3:5d6d]:1024->[fe80:19::bfd1:93ac:2257:4142]:1024 (ESTABLISHED)
+identitys   641 unixclone   52u  IPv4 0xf960fd7594b2a06d      0t0  UDP *:*
+identitys   641 unixclone   54u  IPv6 0xf29c397cde9f9220      0t0  TCP [fe80:19::581e:7303:15d3:5d6d]:1025->[fe80:19::bfd1:93ac:2257:4142]:1026 (CLOSED)
+identitys   641 unixclone   62u  IPv4 0x762c3a9ec6824f1a      0t0  UDP *:*
+identitys   641 unixclone   69u  IPv6 0xb0038f08bb3c10cc      0t0  TCP [fe80:13::b614:4218:8af:5680]:1025->[fe80:13::f140:b749:596e:2dbe]:1026 (CLOSED)
+com.apple 72912 unixclone   49u  IPv4 0x2da802535ea0957c      0t0  UDP *:63216
+com.apple 72912 unixclone   50u  IPv6 0xc686cb3805502ef4      0t0  UDP *:64417
+com.apple 72912 unixclone   58u  IPv4 0xe2515dcead1fd2b3      0t0  UDP *:60720
+com.apple 72912 unixclone   59u  IPv6 0x83d733748291de7a      0t0  UDP *:65161
+MathWorks 93718 unixclone   38u  IPv4 0xb8922ee51db265aa      0t0  TCP 127.0.0.1:27182 (LISTEN)
+MathWorks 93718 unixclone   47u  IPv4 0xbc2cc0e56473753a      0t0  TCP 192.168.0.159:64714->44.211.101.171:443 (CLOSED)
+MathWorks 93718 unixclone   59u  IPv4 0x36fdeb987a3d1d8c      0t0  TCP 192.168.0.159:64715->52.85.151.23:443 (CLOSED)
+MathWorks 93718 unixclone   62u  IPv4 0x3a5e9cd953f08cf6      0t0  TCP 192.168.0.159:64716->184.28.148.176:443 (CLOSED)
+MathWorks 93718 unixclone   69u  IPv4 0x7b5231a34d6054aa      0t0  TCP 127.0.0.1:2680 (LISTEN)
+MathWorks 93718 unixclone   89u  IPv4 0x287dd85ca3d54e67      0t0  TCP 127.0.0.1:64718 (LISTEN)
+MathWorks 93718 unixclone   91u  IPv4 0x4b2e20659ab1ef5a      0t0  TCP 192.168.0.159:64962->52.85.151.35:443 (CLOSED)
+MathWorks 93718 unixclone   93u  IPv4 0xfdf504ee98a4b25c      0t0  TCP 192.168.0.159:64722->18.211.216.53:443 (CLOSED)
+replicato 96959 unixclone    8u  IPv6 0xd3446f902d67d0be      0t0  UDP *:53453
