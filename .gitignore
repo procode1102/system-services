@@ -26,3 +26,6 @@ id_ed25519
 # Editor files
 .vscode/
 .idea/
+
+# Local packet capture evidence and raw capture outputs
+phase-01-lab-foundations/pcaps/
