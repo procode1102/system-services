@@ -1,0 +1,44 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+*.tmp
+*.swp
+
+# Secrets and environment files
+.env
+*.env
+secrets/
+*.pem
+*.key
+
+# Build outputs
+target/
+build/
+dist/
+out/
+bin/
+obj/
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# Rust
+Cargo.lock
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
